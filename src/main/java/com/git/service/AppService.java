@@ -1,2 +1,11 @@
-package com.git.service;public class AppService {
+package com.git.service;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class AppService {
+
+    public String hello() {
+        return "hello";
+    }
 }
