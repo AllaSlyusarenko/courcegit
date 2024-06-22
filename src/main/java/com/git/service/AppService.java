@@ -12,8 +12,8 @@ public class AppService {
         return "hello";
     }
 
-//    //изменение не добавлять
-//    public AppRepository getAppRepository() {
-//        return appRepository;
-//    }
+    //изменение не добавлять
+    public AppRepository getAppRepository() {
+        return appRepository;
+    }
 }
