@@ -11,9 +11,12 @@ public class AppService {
     public String hello() {
         return "hello";
     }
+    //from 4 commit
 
     //изменение не добавлять
     public AppRepository getAppRepository() {
         return appRepository;
     }
+//fix-> master
+    
 }
