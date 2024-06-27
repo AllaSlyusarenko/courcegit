@@ -17,8 +17,6 @@ public class AppService {
     public AppRepository getAppRepository() {
         return appRepository;
     }
-//fix-> master
-//
 
 
 }
