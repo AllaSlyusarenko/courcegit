@@ -19,6 +19,6 @@ public class AppService {
     }
 //fix-> master
 //
-
+    //изменения в мастере после reset
 
 }
